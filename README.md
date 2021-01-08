@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Raiyan Mahin</h1>
+<h1 align="center">Hi There 👋, I'm Raiyan Mahin</h1>
 <h3 align="center">Passionate Competitive Programmer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=RaiyanMahin&label=Profile%20views&color=0e75b6&style=flat" alt="RaiyanMahin" /> </p>
@@ -7,13 +7,15 @@
 
 - 🔭 I’m currently working on **my BSc Degree.**
 
-- 🌱 I’m currently learning **Data Stuctures , Algorithms**
+- 🌱 I’m currently learning **Data Stuctures , Algorithms for Competitive Programming**
 
 - 👯 I’m looking to collaborate on **Software Industry**
 
 - 📫 How to reach me **u1804097@student.cuet.ac.bd**
 
 - ⚡ Fun fact **Coffee ❤**
+
+-💬 Ask me about **Coding ❤️**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
