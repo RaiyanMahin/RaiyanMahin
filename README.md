@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **my BSc Degree.**
 
-- 🌱 I’m currently learning **Data Stuctures , Algorithms for Competitive Programming**
+- 🌱 I’m currently learning **Data Structures , Algorithms for Competitive Programming**
 
 - 👯 I’m looking to collaborate on **Software Industry**
 
