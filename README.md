@@ -20,7 +20,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/raiyanmahin/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="https://www.linkedin.com/in/raiyanmahin/" height="30" width="40" /></a>
-<a href="https://facebook.com/b201097/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="https://www.facebook.com/b201097/" height="30" width="40" /></a>
+<a href="https://www.facebook.com/raiyan97mahin/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="https://www.facebook.com/raiyan97mahin/" height="30" width="40" /></a>
 <a href="https://www.youtube.com/channel/UC-6FrwadV-TTlHrxOToqf7w" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="https://www.youtube.com/channel/UC-6FrwadV-TTlHrxOToqf7w" height="30" width="40" /></a>
 </p>
 
