@@ -33,7 +33,7 @@
 
 [![@raiyanmahin's Holopin board](https://holopin.io/api/user/board?user=raiyanmahin)](https://holopin.io/@raiyanmahin)
 
-[![Git Stars](https://git-stars.com/share/embed/RaiyanMahin.svg)](https://git-stars.com/user/RaiyanMahih)
+[![Git Stars](https://git-stars.com/share/embed/RaiyanMahin.svg)](https://git-stars.com/user/RaiyanMahin)
 
 
 
