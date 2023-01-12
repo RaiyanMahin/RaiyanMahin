@@ -13,9 +13,6 @@
 
 - 📫 How to reach me **u1804097@student.cuet.ac.bd**
 
-- ⚡ Fun fact **Coffee ❤**
-
--💬 Ask me about **Coding ❤️**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -32,7 +29,7 @@
 
 [![@raiyanmahin's Holopin board](https://holopin.io/api/user/board?user=raiyanmahin)](https://holopin.io/@raiyanmahin)
 
-[![Git Stars](https://git-stars.com/share/embed/RaiyanMahin.svg)](https://git-stars.com/user/RaiyanMahin)
+
 
 
 
