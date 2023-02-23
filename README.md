@@ -25,7 +25,6 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=RaiyanMahin&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515" alt="RaiyanMahin" /></p>
 
-![giphy](https://user-images.githubusercontent.com/70858557/108669240-a0050500-7502-11eb-8625-a669c543febb.gif)
 
 [![@raiyanmahin's Holopin board](https://holopin.io/api/user/board?user=raiyanmahin)](https://holopin.io/@raiyanmahin)
 
